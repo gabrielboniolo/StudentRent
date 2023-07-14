@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\bin\Debug\net6.0\StudentRent.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\bin\Debug\net6.0\StudentRent.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\bin\Debug\net6.0\StudentRent.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\bin\Debug\net6.0\StudentRent.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\bin\Debug\net6.0\StudentRent.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\obj\Debug\net6.0\StudentRent.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\obj\Debug\net6.0\StudentRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\obj\Debug\net6.0\StudentRent.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\obj\Debug\net6.0\StudentRent.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\obj\Debug\net6.0\StudentRent.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\obj\Debug\net6.0\StudentRent.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\obj\Debug\net6.0\refint\StudentRent.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\obj\Debug\net6.0\StudentRent.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\obj\Debug\net6.0\StudentRent.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\StudentRent\obj\Debug\net6.0\ref\StudentRent.dll
